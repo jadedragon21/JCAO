@@ -1,5 +1,5 @@
-# JCAO
-Java Classes and Objects Wk9 Day4
+# JCAO-Java Classes and Objects
+Wk9 Day4
  
 This is a lab assignment.
 
